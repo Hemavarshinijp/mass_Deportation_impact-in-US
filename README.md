@@ -1,7 +1,5 @@
 # mass_Deportation_impact-in-US
 
-# mass_Deportation_impact-in-US
-
 # 📊 Economic Impact of Mass Deportation in the U.S.
 
 This project presents a Power BI dashboard analyzing the **job losses and economic consequences** of a mass deportation policy in the United States.
